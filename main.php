@@ -12,15 +12,4 @@ if($usuario == "admin" && $senha == 1234){
 }else{
   echo "O usuário e a senha estão incorretos!\n";
 }
-
-switch ($idade){
-  case 18:
-    echo "Maior de Idade!\n";
-    break;
-  case 17:
-    echo "Menor de Idade!\n";
-    break;
-  default:
-    echo "Não consegui classificar sua idade!\n";
-    break;
-}
+.
