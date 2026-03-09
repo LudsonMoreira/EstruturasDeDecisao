@@ -12,4 +12,3 @@ if($usuario == "admin" && $senha == 1234){
 }else{
   echo "O usuário e a senha estão incorretos!\n";
 }
-.
